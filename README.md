@@ -21,28 +21,28 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/AzizBenIsmail) 
-[![Linkedin Badge](https://img.shields.io/badge/-AzizBenIsmail-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-ben-ismail-a111ba19a/) 
-[![Mail Badge](https://img.shields.io/badge/-@AzizBenIsmail-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/azizbensmail/)
-[![Mail Badge](https://img.shields.io/badge/-AzizBenIsmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aziz.270700@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AssylChouikh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assyl-chouikh-b56988243) 
+[![Mail Badge](https://img.shields.io/badge/-@AssylChouikh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/assyl_chouikh/)
+[![Mail Badge](https://img.shields.io/badge/-AssylChouikh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chouikhassyl7@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
+![GitHub followers](https://img.shields.io/github/followers/AssylChouikh?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AzizBenIsmail)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AssylChouikh.AssylChouikh)-->
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=AssylChouikh)
 <img src="https://img.shields.io/badge/Age-24-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- TODO: Add last video link 
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I'm currently an intern at @DMNOVA
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
+- 🤔 I'm looking for help with Outstanding Video ideas.
+- 📫 How to reach me: chouikhassyl7@gmail.com.
+- 😄 Pronouns: Chouikhation,Assyl.
 -->
 
 
@@ -66,12 +66,12 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizBenIsmail&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AzizBenIsmail&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BenIsmail)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assylk&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=assylk&show_icons=true&theme=radical)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assylk)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AssylChouikh&&theme=algolia" alt="AssylChouikh" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AzizBenIsmail&theme=react)
+![](https://github-readme-activity-graph.vercel.app/graph?username=AssylChouikh&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -81,21 +81,21 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 
 | Choose your language         | Flags                                                                                                              |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
+| [EN-UK](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United Kingdom Flag (UK)" src="./assets/images/flags/UK.png" /> |
 | [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
+| [AR-TN](./README-AR-TN.md) | <img width="15%" alt="Node4Devs Logo" title="Tunisia Flag (TN)" src="./assets/images/flags/Tunisia.png" />        |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizBenIsmail&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/assylk/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-Credit: [Aziz Ben Ismail](https://github.com/AzizBenIsmail) 
+Credit: [Assyl Chouikh](https://github.com/assylk) 
 
-Last Edited on: 03/09/2024
+Last Edited on: 28/11/2024
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
@@ -115,15 +115,10 @@ Last Edited on: 03/09/2024
 
 ## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizBenIsmail&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=assylk&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
 
 <br>
 </details>
 
 
 
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
