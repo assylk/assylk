@@ -28,11 +28,11 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![GitHub followers](https://img.shields.io/github/followers/AssylChouikh?style=social)
-[![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
+![GitHub followers](https://img.shields.io/github/followers/assylk?style=social)
+[![wakatime](https://wakatime.com/badge/user/d449fe9f-24c1-4268-a564-6c3a55aa7e26.svg)](https://wakatime.com/@d449fe9f-24c1-4268-a564-6c3a55aa7e26)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AssylChouikh.AssylChouikh)-->
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=AssylChouikh)
-<img src="https://img.shields.io/badge/Age-24-blue" />
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=assylk)
+<img src="https://img.shields.io/badge/Age-21-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -69,9 +69,9 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assylk&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=assylk&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assylk)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AssylChouikh&&theme=algolia" alt="AssylChouikh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assylk&&theme=algolia" alt="AssylChouikh" /></p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=AssylChouikh&theme=react)
+![](https://github-readme-activity-graph.vercel.app/graph?username=assylk&theme=react)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -89,7 +89,7 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/AzizBenIsmail/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/assylk/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/assylk/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
