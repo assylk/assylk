@@ -6,11 +6,11 @@
 
 <!--
 <p align="center">
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Ben+Ismail+Aziz!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/AzizBenIsmail) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Assyl+Chouikh!;Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/assylk) 
   </p> -->
   
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="assets/images/avatar.avif"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
@@ -27,7 +27,7 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 [![Mail Badge](https://img.shields.io/badge/-AssylChouikh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chouikhassyl7@gmail.com)
 
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
+
 ![GitHub followers](https://img.shields.io/github/followers/assylk?style=social)
 [![wakatime](https://wakatime.com/badge/user/d449fe9f-24c1-4268-a564-6c3a55aa7e26.svg)](https://wakatime.com/@d449fe9f-24c1-4268-a564-6c3a55aa7e26)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AssylChouikh.AssylChouikh)-->
@@ -68,7 +68,7 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assylk&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=assylk&show_icons=true&theme=radical)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assylk)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=assylchk)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assylk&&theme=algolia" alt="AssylChouikh" /></p>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=assylk&theme=react)
