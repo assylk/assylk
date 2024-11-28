@@ -10,7 +10,7 @@
   </p> -->
   
 <!--  Ceci mon Avatar-->
-<img title="My Avatar" align="left" src="assets/images/avatar.avif"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="assets/images/avatar.png"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
@@ -89,8 +89,9 @@ I'm Assyl Chouikh, a Computer Science student at Institut Supérieur des Mathém
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-FrontendReact&theme=react)](https://github.com/assylk/PFA-Automatisation_Campagne_Sms-Email-FrontendReact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=PFA-Automatisation_Campagne_Sms-Email-BackendExpress&theme=react)](https://github.com/assylk/PFA-Automatisation_Campagne_Sms-Email-BackendExpress)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=Portfolio&theme=react)](https://github.com/assylk/Portfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=php-institut-project&theme=react)](https://github.com/assylk/php-institut-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=assylk&repo=Pacman-Java&theme=react)](https://github.com/assylk/Pacman-Java)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Credit: [Assyl Chouikh](https://github.com/assylk) 
